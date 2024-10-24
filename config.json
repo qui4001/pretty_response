@@ -1,0 +1,18 @@
+{
+    "name": "Pretty Response",
+    "namespace": "WeillCornellMedicine\\PrettyResponse", 
+    "description": "Prettify responses on API playground.",
+    "framework-version": 14,
+    "authors": [
+        {
+            "name": "Quazi Irfan",
+            "email": "qui4001@med.cornell.edu",
+            "institution": "Weill Cornell Medical College"
+        },
+        {
+            "name": "Jessie Lee",
+            "email": "jel2025@med.cornell.edu",
+            "institution": "Weill Cornell Medical College"
+        }
+    ]
+}
